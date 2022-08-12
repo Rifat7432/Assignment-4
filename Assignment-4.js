@@ -65,6 +65,3 @@ function isBestFriend(firstPerson,secondPerson){
     }
     return result;
 }
-
-let sdf=isBestFriend('1',7)
-console.log(sdf)
